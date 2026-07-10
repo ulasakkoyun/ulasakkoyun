@@ -15,26 +15,6 @@ I'm passionate about Artificial Intelligence, Large Language Models, Natural Lan
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-- Swift
-- JavaScript
-- Python
-- Java
-- C#
-
-**Frameworks & Tools**
-- SwiftUI
-- Firebase
-- Cloudflare Workers
-- Docker
-- Git
-- GitHub
-- Xcode
-
----
-
 ## 📫 Connect
 
 🌐 Website: https://ulasakkoyun.com
