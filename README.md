@@ -1,7 +1,44 @@
-# Hi I'm Ulas Akkoyun
+# Hi, I'm Ulaş Akkoyun 👋
 
-3rd Year Computer Engineering Student | Passionate about NLP, LLMs, and AI | Building mobile experiences with Swift & iOS
+Computer Engineering Student (Final Year) at Muğla Sıtkı Koçman University
 
-## 📫 Contact
-- LinkedIn: https://linkedin.com/in/ulasakkoyun
-- Twitter (X): https://twitter.com/ulasakkyn
+I'm passionate about Artificial Intelligence, Large Language Models, Natural Language Processing, and iOS development. I enjoy building clean, user-focused applications and exploring modern software engineering practices.
+
+---
+
+## 🚀 What I'm working on
+
+- 📱 Building iOS applications with Swift & SwiftUI
+- 🤖 Exploring LLMs and AI-powered applications
+- 🌍 Developing full-stack projects with Cloudflare, Firebase, and modern web technologies
+- 💡 Continuously improving my software engineering skills
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Swift
+- JavaScript
+- Python
+- Java
+- C#
+
+**Frameworks & Tools**
+- SwiftUI
+- Firebase
+- Cloudflare Workers
+- Docker
+- Git
+- GitHub
+- Xcode
+
+---
+
+## 📫 Connect
+
+🌐 Website: https://ulasakkoyun.com
+
+💼 LinkedIn: https://linkedin.com/in/ulasakkoyun
+
+📧 Email: your@email.com
