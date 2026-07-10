@@ -20,5 +20,3 @@ I'm passionate about Artificial Intelligence, Large Language Models, Natural Lan
 🌐 Website: https://ulasakkoyun.com
 
 💼 LinkedIn: https://linkedin.com/in/ulasakkoyun
-
-📧 Email: your@email.com
